@@ -1,0 +1,5 @@
+----------Time before cloud was tough--------
+1. The choice was to host your app on someone's datacenter or get your own premise solutions.
+2. Scaling this for thousands of apps was difficult.
+3. The cost was quitte high.
+
