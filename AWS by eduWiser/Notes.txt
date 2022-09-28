@@ -3,3 +3,32 @@
 2. Scaling this for thousands of apps was difficult.
 3. The cost was quitte high.
 
+--------
+What is cloud computing?
+:- Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS).
+
+--------
+read documentation:- https://aws.amazon.com/what-is-cloud-computing/
+
+--------
+AWS EC2:- Computing in cloud has been made easy by EC2.
+
+Link:- https://aws.amazon.com/ec2/
+
+----------
+Amazon elastic compute cloud(EC2) :- let's launch an instance in ec2
+1. Signup for a free account on AWS
+2. Go to EC2 service from your AWS dashboard.
+3. Click on launch instance and follow the steps:- 
+
+
+
+
+
+
+
+
+
+
+
+
